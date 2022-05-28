@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248334473524",
+    "project_id": "instagram2-by-rivaan",
+    "storage_bucket": "instagram2-by-rivaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248334473524:android:e54dc6ebb4e1296dfead61",
+        "android_client_info": {
+          "package_name": "com.example.instagram2_rivaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248334473524-fa0u9cfg3mee99f0ap18n3vkb10i0epu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-9C8sssYZSYURXd2fIt6ePpSjgRVI_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248334473524-fa0u9cfg3mee99f0ap18n3vkb10i0epu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
